@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CiclosDelSueño</string>
+
+    <!-- Bienvenida -->
+    <string name="titulo_bienvenida">Bienvenido/a</string>
+    <string name="explicacion_inicial_1">Si estás buscando una forma de despertarte más fácilmente y sentirte menos cansado al comienzo del día, nuestra aplicación de alarma basada en ciclos de sueño podría ser justo lo que necesitas.</string>
+    <string name="explicacion_inicial_2">Utilizamos información sobre las diferentes fases del sueño para programar una alarma que te despierte en una fase de sueño ligero cercana a la hora en que necesitas levantarte. De esta manera, puedes despertarte de manera más natural y evitar la sensación de cansancio que a veces se experimenta al despertar durante una fase de sueño profundo o REM.</string>
+    <string name="explicacion_inicial_3">Recuerda que cada persona es única, por lo que puede tomar un tiempo encontrar la configuración de ciclos de sueño que funcione mejor para ti. Sin embargo, si te registras en nuestra aplicación, puedes integrar tu reloj inteligente y permitir que nuestra inteligencia artificial calcule tu tiempo de ciclo de sueño óptimo. Todo lo que necesitas hacer es indicarnos tu hora de dormir o despertar, y nosotros nos encargaremos del resto.</string>
+    <string name="boton_siguiente">SIGUIENTE</string>
+
+    <!-- Configuración Inicial -->
+    <string name="titulo_configuracion_inicial">Comencemos</string>
+    <string name="tiempo_ciclo">Tiempo del ciclo de sueño (min)</string>
+    <string name="numero_tiempo_ciclo">90</string>
+    <string name="recomendacion_tiempo_ciclo">Te recomendamos iniciar con 90 minutos</string>
+    <string name="edad">Indícanos tu edad</string>
+    <string name="numero_edad">25</string>
+    <string name="title_activity_pantalla_principal">PantallaPrincipal</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- pantalla principal -->
+    <string name="titulo_pantalla_principal">Alarmas</string>
+</resources>
